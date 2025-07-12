@@ -1,0 +1,12 @@
+# === 1. 忽略整个 dataset 文件夹 ===
+dataset/
+
+# === 2. 忽略模型输出、日志、结果 ===
+outputs/
+checkpoints/
+runs/
+results/
+logs/
+
+# === 3. 忽略 Python 缓存 ===
+__pycache__/
